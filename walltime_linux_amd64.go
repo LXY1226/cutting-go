@@ -1,6 +1,6 @@
 //go:build linux && amd64
 
-package cutting_go
+package edge
 
 func WallTime() (sec int64, nsec int32)
 
